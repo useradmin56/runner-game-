@@ -1,0 +1,6 @@
+{
+  "name": "Relic Strider",
+  "description": "3D endless runner set in Ancient Sunlit Ruins with a customizable Cyber-Runner Suit, multi-lane hazards, daily challenges, and a live real-time global leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
